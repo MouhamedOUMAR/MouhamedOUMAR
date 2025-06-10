@@ -31,7 +31,7 @@ I aim to contribute to innovative projects and continue growing as a **Full Stac
 <a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></a>
 <a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height="42px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a>
 <a href="https://postman.com" target="_blank"><img align="left" alt="Postman" height="42px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></a>
-<a href="https://en.wikipedia.org/wiki/GSM" target="_blank"><img align="left" alt="GSM" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/GSM_logo.svg/2560px-GSM_logo.svg.png"></a>
+<a href="https://en.wikipedia.org/wiki/GSM" target="_blank"><img align="left" alt="GSM" height="42px" src="https://cdn-icons-png.flaticon.com/128/3337/3337220.png"></a>
 
 <br/><br/>
 
