@@ -83,5 +83,5 @@ I aim to contribute to innovative projects and continue growing as a **Full Stac
 
 ### 🤝 Let's Connect
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Mohamed%20Oumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mouhamed-oumar-67189331b/)](https://www.linkedin.com/in/mouhamed-oumar-67189331b/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Mohamed%20Oumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mouhamed-oumar/)](https:/www.linkedin.com/in/mouhamed-oumar/)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mohamedmohamedoumaramar@gmail.com)](mailto:mohamedmohamedoumaramar@gmail.com)
