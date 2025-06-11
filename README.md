@@ -59,11 +59,11 @@ I aim to contribute to innovative projects and continue growing as a **Full Stac
 #### 📚 Student Management System  
 *Technologies:* Java, Spring Boot, MySQL  
 - RESTful CRUD app for managing student records.
+- Backend system for managing students. Features full CRUD operations and RESTful APIs using Spring Data JPA
 
 #### 📊 Attendance System Bank  
 *Technologies:* Java (Swing), MySQL  
-- Desktop application for bank attendance tracking developed in a team.
-
+-  Collaborated with a team to develop a system Bank Attendance.
 ---
 
 ### 📜 Certifications
