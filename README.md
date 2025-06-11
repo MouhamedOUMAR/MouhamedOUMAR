@@ -32,7 +32,7 @@ I aim to contribute to innovative projects and continue growing as a **Full Stac
 <a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="left" alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TypeScript" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></a>
-<a href="https://www.netacad.com/courses/packet-tracer" target="_blank"><img align="left" alt="Cisco Packet Tracer" height="42px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Cisco_packet_tracer_icon.png"></a>
+
 <a href="https://www.kali.org/" target="_blank"><img align="left" alt="Kali Linux" height="42px" src="https://www.kali.org/images/kali-logo.svg"></a>
 <a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height="42px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a>
 <a href="https://postman.com" target="_blank"><img align="left" alt="Postman" height="42px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></a>
