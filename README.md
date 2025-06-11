@@ -52,8 +52,9 @@ I aim to contribute to innovative projects and continue growing as a **Full Stac
 ### 🛠️ My Projects
 
 #### 🛒 E-commerce Store Backend API  
-*Technologies:* Java, Spring Boot, MySQL  
-- Developed a scalable and secure backend with user, product, and order management.
+*Technologies:* HTML, JavaScript,CSS, MySQL,Php 
+-  Me and my friend Abdellahi built a Creation and updating of the LMD training framework database application.
+- Project Link https://lnkd.in/eAZBrm59
 
 #### 📚 Student Management System  
 *Technologies:* Java, Spring Boot, MySQL  
