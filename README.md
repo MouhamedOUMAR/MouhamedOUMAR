@@ -51,21 +51,44 @@ I aim to contribute to innovative projects and continue growing as a **Full Stac
 
 ### 🛠️ My Projects
 
-#### 🛒 E-commerce Store Backend API  
-*Technologies:* HTML, JavaScript,CSS, MySQL,Php 
--  Me and my friend Abdellahi built a Creation and updating of the LMD training framework database application.
-- Project Link https://lnkd.in/eAZBrm59
+#### 🛒 System LMD
+📘 Description du projet — Gestion LMD Titre du projet : Création et mise à jour de la base de données des canevas d’une formation LMD
 
-#### 📚 Student Management System  
-*Technologies:* Java, Spring Boot, MySQL  
-- RESTful CRUD app for managing student records.
-- Backend system for managing students. Features full CRUD operations and RESTful APIs using Spring Data JPA
+🎯 Objectif du projet Ce projet a pour objectif de concevoir et développer une application web complète permettant la gestion pédagogique d’un établissement d’enseignement supérieur suivant le système LMD (Licence - Master - Doctorat). Il centralise la gestion des départements, filières, semestres, modules, matières, étudiants, enseignants, notes, emplois du temps, rattrapages, et décisions de passage.
 
-#### 📊 Attendance System Bank  
-*Technologies:* Java (Swing), MySQL  
--  Collaborated with a team to develop a system Bank Attendance.
+
+
+
 ---
+A backend-only **Student Management System** built using **Spring Boot** and **MySQL**, designed to manage student data efficiently through a powerful RESTful API.
 
+## 📌 Project Overview
+
+This project provides a REST API to:
+- Add, update, delete, and retrieve student records.
+- Manage courses and student enrollments.
+- Structure roles for admin and basic user access (optional).
+## 🧰 Tech Stack
+
+- [**Spring Boot 3+**](https://spring.io/projects/spring-boot)
+- [**Spring Data JPA**](https://spring.io/projects/spring-data-jpa)
+- [**Spring Web (REST API)**](https://docs.spring.io/spring-framework/reference/web/webmvc.html)
+- [**MySQL**](https://www.mysql.com/)
+- [**Lombok**](https://projectlombok.org/)
+- [**Maven**](https://maven.apache.org/)
+- (Optional: [**Spring Security + JWT**](https://spring.io/projects/spring-security))
+## ⚙️ Features
+
+- ✅ CRUD operations for Students.
+- ✅ Course management (if implemented).
+- ✅ Search/filter students by name, email, etc.
+- ✅ RESTful API with proper status codes.
+- ✅ Database connection with MySQL.
+- ✅ Exception handling and validations.
+- (Optional) ✅ Role-based access control (admin/user).
+- (Optional) ✅ Swagger UI for API testing.
+
+---
 ### 📜 Certifications
 
 - 📡 **Cisco Certified Network Associate (CCNA)**
